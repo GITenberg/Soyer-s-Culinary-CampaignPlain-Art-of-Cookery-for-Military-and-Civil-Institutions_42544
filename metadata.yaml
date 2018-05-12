@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41417
     wikipedia: http://en.wikipedia.org/wiki/Alexis_Soyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42544#Soyer-s-Culinary-CampaignPlain-Art-of-Cookery-for-Military-and-Civil-Institutions
 gutenberg_issued: '2013-04-15'
 gutenberg_type: Text
 identifiers:
